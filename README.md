@@ -1,5 +1,8 @@
 ### Hi there 👋
-My name is Omkar
+Myself Omkar, Welcome to My GitHub Profile
+I am a Programmer who likes to solve the real world problems using my programming skills.
+Currently I am a learner who is trying to get grasp of various software  skills.
+You can check out some interesting projects I have made and enjoy your time here!!
 <!--
 **OmMY692/OmMY692** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
